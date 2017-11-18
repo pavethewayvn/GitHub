@@ -1,2 +1,3 @@
 user 1 v1
 user 1 v1 after fork (not work)
+user 1 v1 check again after forked
