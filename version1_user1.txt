@@ -3,4 +3,5 @@ user 1 v1 after fork (not work)
 user 1 v1 check again after forked
 user 2 edited and upload to server
 user 2 test only uses git pull
+user 2 developer
 
